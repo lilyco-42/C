@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "WebSearch",
+      "Bash(git clone *)",
+      "Bash(gcc --version)",
+      "Bash(clang --version)",
+      "Bash(where gcc *)"
+    ]
+  }
+}
