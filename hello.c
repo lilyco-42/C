@@ -1,6 +1,5 @@
-#include<stdio.h>
-int mian()
-{
-    printf("Hello,world!\n");
-    return 0;
+#include <stdio.h>
+int main() {
+  printf("你好，中国\n");
+  return 0;
 }

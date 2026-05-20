@@ -1,11 +1,11 @@
 #include <stdio.h>
 int main() {
-float length, breadth, area;
-printf("Enter length : \n");
-scanf(" %f", &length);
-printf("Enter breadth : \n");
-scanf(" %f", &breadth);
-area = length * breadth; 
-printf("Area: %.2f\n", area);
-return 0;
+  float length, breadth, area;
+  printf("输入长 \n");
+  scanf(" %f", &length);
+  printf("输入宽 : \n");
+  scanf(" %f", &breadth);
+  area = length * breadth;
+  printf("面积: %.2f\n", area);
+  return 0;
 }
